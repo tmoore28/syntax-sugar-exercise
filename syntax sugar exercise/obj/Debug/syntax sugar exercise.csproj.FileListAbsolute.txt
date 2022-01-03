@@ -1,0 +1,7 @@
+C:\Users\cocac\source\repos\syntax sugar exercise\syntax sugar exercise\bin\Debug\syntax sugar exercise.exe.config
+C:\Users\cocac\source\repos\syntax sugar exercise\syntax sugar exercise\bin\Debug\syntax sugar exercise.exe
+C:\Users\cocac\source\repos\syntax sugar exercise\syntax sugar exercise\bin\Debug\syntax sugar exercise.pdb
+C:\Users\cocac\source\repos\syntax sugar exercise\syntax sugar exercise\obj\Debug\syntax sugar exercise.csproj.AssemblyReference.cache
+C:\Users\cocac\source\repos\syntax sugar exercise\syntax sugar exercise\obj\Debug\syntax sugar exercise.csproj.CoreCompileInputs.cache
+C:\Users\cocac\source\repos\syntax sugar exercise\syntax sugar exercise\obj\Debug\syntax sugar exercise.exe
+C:\Users\cocac\source\repos\syntax sugar exercise\syntax sugar exercise\obj\Debug\syntax sugar exercise.pdb
